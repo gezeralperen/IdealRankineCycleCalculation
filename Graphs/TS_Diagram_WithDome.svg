@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-25 187 560 420" style="enable-background:new -25 187 560 420;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#FFFFFF;}
+	.st1{clip-path:url(#SVGID_2_);fill:#FFFFFF;}
+	.st2{fill:url(#SVGID_3_);}
+	.st3{fill:#FFDEC5;}
+	.st4{font-family:'MyriadPro-Regular';}
+	.st5{font-size:12px;}
+	.st6{fill:none;stroke:#262626;stroke-width:0.6667;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st7{fill:#262626;}
+	.st8{font-size:13.3333px;}
+	.st9{font-size:14.6667px;}
+	.st10{fill:none;stroke:#0072BD;stroke-width:0.6667;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st11{fill:none;stroke:#D95319;stroke-width:0.6667;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st12{fill:none;stroke:#EDB120;stroke-width:0.6667;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st13{fill:none;stroke:#7E2F8E;stroke-width:0.6667;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st14{fill:none;stroke:#77AC30;stroke-width:0.6667;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st15{fill:none;stroke:#4DBEEE;stroke-width:0.6667;stroke-linejoin:round;stroke-miterlimit:10;}
+	.st16{fill:none;stroke:#262626;stroke-width:0.6667;stroke-miterlimit:10;}
+</style>
+<g id="Layer_3">
+	<g>
+		<rect x="-25" y="187" class="st0" width="560" height="420"/>
+		<path class="st0" d="M48,561h434V218H48V561z"/>
+	</g>
+	<g>
+		<g>
+			<defs>
+				<rect id="SVGID_1_" x="-25" y="187" width="560" height="420"/>
+			</defs>
+			<clipPath id="SVGID_2_">
+				<use xlink:href="#SVGID_1_"  style="overflow:visible;"/>
+			</clipPath>
+			<rect x="-25" y="187" class="st1" width="560" height="420"/>
+		</g>
+	</g>
+</g>
+<g id="Layer_2">
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="50.4986" y1="389.6619" x2="477.66" y2="389.6619">
+		<stop  offset="0.3744" style="stop-color:#D2FFFF"/>
+		<stop  offset="0.4828" style="stop-color:#FFDCDC"/>
+	</linearGradient>
+	<rect x="50.5" y="220.2" class="st2" width="427.2" height="339"/>
+	<path class="st3" d="M50.5,559.2h390.6l-15.4-7.2l-20.4-11.2l-18.8-12.6l-12-9.6l-18.3-17.7l-9.6-11.1l-10.9-14.2L325.1,460
+		l-11.8-18.6L301,421.9l-8.7-12.5l-5.1-6.5l-5.1-5.8l-6.9-6.6l-9.4-6.7c0,0,1-0.1-7.8-3.5c-8.9-3.4-20.7-3.9-27.2-1.7
+		s-9.3,3.7-9.3,3.7l-6.2,4.4l-12,11.4l-14.4,16.2l-4.8,6.2l-19.2,23.7l-11.6,14l-9.7,11.6l-5.2,5.8l-8.8,9.9L123,493l-6.5,7.2
+		l-7.5,7.6l-10.3,10.3l-6.9,6.5l-10.8,9.8l-10.4,9l-11.7,9.5l-6.2,4.5L50.5,559.2z"/>
+	<text transform="matrix(1 0 0 1 227.3333 437)" class="st4 st5">SLVM</text>
+	<text transform="matrix(1 0 0 1 151.2269 400.5)" class="st4 st5">CL</text>
+	<text transform="matrix(1 0 0 1 317.7269 400.5)" class="st4 st5">SHV</text>
+</g>
+<g id="Layer_1">
+	<g>
+		<line class="st6" x1="48" y1="561" x2="482" y2="561"/>
+		<line class="st6" x1="48" y1="218" x2="482" y2="218"/>
+		<line class="st6" x1="48" y1="561" x2="48" y2="556.7"/>
+		<line class="st6" x1="91.4" y1="561" x2="91.4" y2="556.7"/>
+		<line class="st6" x1="134.8" y1="561" x2="134.8" y2="556.7"/>
+		<line class="st6" x1="178.2" y1="561" x2="178.2" y2="556.7"/>
+		<line class="st6" x1="221.6" y1="561" x2="221.6" y2="556.7"/>
+		<line class="st6" x1="265" y1="561" x2="265" y2="556.7"/>
+		<line class="st6" x1="308.4" y1="561" x2="308.4" y2="556.7"/>
+		<line class="st6" x1="351.8" y1="561" x2="351.8" y2="556.7"/>
+		<line class="st6" x1="395.2" y1="561" x2="395.2" y2="556.7"/>
+		<line class="st6" x1="438.6" y1="561" x2="438.6" y2="556.7"/>
+		<line class="st6" x1="482" y1="561" x2="482" y2="556.7"/>
+		<line class="st6" x1="48" y1="218" x2="48" y2="222.3"/>
+		<line class="st6" x1="91.4" y1="218" x2="91.4" y2="222.3"/>
+		<line class="st6" x1="134.8" y1="218" x2="134.8" y2="222.3"/>
+		<line class="st6" x1="178.2" y1="218" x2="178.2" y2="222.3"/>
+		<line class="st6" x1="221.6" y1="218" x2="221.6" y2="222.3"/>
+		<line class="st6" x1="265" y1="218" x2="265" y2="222.3"/>
+		<line class="st6" x1="308.4" y1="218" x2="308.4" y2="222.3"/>
+		<line class="st6" x1="351.8" y1="218" x2="351.8" y2="222.3"/>
+		<line class="st6" x1="395.2" y1="218" x2="395.2" y2="222.3"/>
+		<line class="st6" x1="438.6" y1="218" x2="438.6" y2="222.3"/>
+		<line class="st6" x1="482" y1="218" x2="482" y2="222.3"/>
+	</g>
+	<g transform="translate(73,379.3333)">
+		<text transform="matrix(1 0 0 1 -29 201)" class="st7 st4 st8">0</text>
+	</g>
+	<g transform="translate(116.4,379.3333)">
+		<text transform="matrix(1 0 0 1 -29 201)" class="st7 st4 st8">1</text>
+	</g>
+	<g transform="translate(159.8,379.3333)">
+		<text transform="matrix(1 0 0 1 -29 201)" class="st7 st4 st8">2</text>
+	</g>
+	<g transform="translate(203.2,379.3333)">
+		<text transform="matrix(1 0 0 1 -29 201)" class="st7 st4 st8">3</text>
+	</g>
+	<g transform="translate(246.6,379.3333)">
+		<text transform="matrix(1 0 0 1 -29 201)" class="st7 st4 st8">4</text>
+	</g>
+	<g transform="translate(290,379.3333)">
+		<text transform="matrix(1 0 0 1 -29 201)" class="st7 st4 st8">5</text>
+	</g>
+	<g transform="translate(333.4,379.3333)">
+		<text transform="matrix(1 0 0 1 -29 201)" class="st7 st4 st8">6</text>
+	</g>
+	<g transform="translate(376.8,379.3333)">
+		<text transform="matrix(1 0 0 1 -29 201)" class="st7 st4 st8">7</text>
+	</g>
+	<g transform="translate(420.2,379.3333)">
+		<text transform="matrix(1 0 0 1 -29 201)" class="st7 st4 st8">8</text>
+	</g>
+	<g transform="translate(463.6,379.3333)">
+		<text transform="matrix(1 0 0 1 -29 201)" class="st7 st4 st8">9</text>
+	</g>
+	<g transform="translate(507,379.3333)">
+		<text transform="matrix(1 0 0 1 -32.5 201)" class="st7 st4 st8">10</text>
+	</g>
+	<g transform="translate(290.0002,397.6667)">
+		<text transform="matrix(1 0 0 1 -81.5 202)" class="st7 st4 st9">Entropy (kJ/K.kg)</text>
+	</g>
+	<g>
+		<line class="st6" x1="48" y1="561" x2="48" y2="218"/>
+		<line class="st6" x1="482" y1="561" x2="482" y2="218"/>
+		<line class="st6" x1="48" y1="561" x2="52.3" y2="561"/>
+		<line class="st6" x1="48" y1="512" x2="52.3" y2="512"/>
+		<line class="st6" x1="48" y1="463" x2="52.3" y2="463"/>
+		<line class="st6" x1="48" y1="414" x2="52.3" y2="414"/>
+		<line class="st6" x1="48" y1="365" x2="52.3" y2="365"/>
+		<line class="st6" x1="48" y1="316" x2="52.3" y2="316"/>
+		<line class="st6" x1="48" y1="267" x2="52.3" y2="267"/>
+		<line class="st6" x1="48" y1="218" x2="52.3" y2="218"/>
+		<line class="st6" x1="482" y1="561" x2="477.7" y2="561"/>
+		<line class="st6" x1="482" y1="512" x2="477.7" y2="512"/>
+		<line class="st6" x1="482" y1="463" x2="477.7" y2="463"/>
+		<line class="st6" x1="482" y1="414" x2="477.7" y2="414"/>
+		<line class="st6" x1="482" y1="365" x2="477.7" y2="365"/>
+		<line class="st6" x1="482" y1="316" x2="477.7" y2="316"/>
+		<line class="st6" x1="482" y1="267" x2="477.7" y2="267"/>
+		<line class="st6" x1="482" y1="218" x2="477.7" y2="218"/>
+	</g>
+	<g transform="translate(67.6667,374)">
+		<text transform="matrix(1 0 0 1 -33 192.5)" class="st7 st4 st8">0</text>
+	</g>
+	<g transform="translate(67.6667,325)">
+		<text transform="matrix(1 0 0 1 -48 192.5)" class="st7 st4 st8">100</text>
+	</g>
+	<g transform="translate(67.6667,276)">
+		<text transform="matrix(1 0 0 1 -48 192.5)" class="st7 st4 st8">200</text>
+	</g>
+	<g transform="translate(67.6667,227)">
+		<text transform="matrix(1 0 0 1 -48 192.5)" class="st7 st4 st8">300</text>
+	</g>
+	<g transform="translate(67.6667,178)">
+		<text transform="matrix(1 0 0 1 -48 192.5)" class="st7 st4 st8">400</text>
+	</g>
+	<g transform="translate(67.6667,129)">
+		<text transform="matrix(1 0 0 1 -48 192.5)" class="st7 st4 st8">500</text>
+	</g>
+	<g transform="translate(67.6667,80)">
+		<text transform="matrix(1 0 0 1 -48 192.5)" class="st7 st4 st8">600</text>
+	</g>
+	<g transform="translate(67.6667,31)">
+		<text transform="matrix(1 0 0 1 -48 192.5)" class="st7 st4 st8">700</text>
+	</g>
+	<g transform="translate(40.6667,202.4998) rotate(-90)">
+		<text transform="matrix(1 0 0 1 -244.5002 -29)" class="st7 st4 st9">Temperature (°C)</text>
+	</g>
+	<g>
+		<line class="st10" x1="99.7" y1="516.9" x2="99.7" y2="516.9"/>
+		<path class="st11" d="M99.7,516.9l3.1-3.1l3.1-3.1l3.1-3.1l3.1-3.2l3.1-3.2l3.1-3.3l3.1-3.3l3.1-3.4l3.1-3.4l3.1-3.5l3.1-3.5
+			l3.1-3.5l3.1-3.6l3.1-0.8h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1
+			h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1h3.1
+			h3.1h3.1h3.1h3.1h3.1l3.1-3.8l3.1-6.6l3.1-7.1l3.1-7.6l3.1-8l3.1-8.4l3.1-8.8l3.1-9.2l3.1-9.6l3.1-10l3.1-10.3l3.1-10.7l3.1-11
+			l3.1-11.4l3.1-11.7l3.1-12l3.1-12.4l3.1-12.7l3.1-13.1l3.1-13.4l3.1-13.7l3.1-14.1l3.1-14.4l3.1-14.7"/>
+		<line class="st12" x1="407.2" y1="218" x2="407.2" y2="428.7"/>
+		<path class="st13" d="M407.2,428.7l-3.1,9.4l-3.1,9.1l-3.1,8.8l-3.1,8.5l-3.1,8.2l-3.1,8l-3.1,7.7l-3.1,7.4l-3.1,7.1l-3.1,6.8
+			l-3.1,6.5l-3.1,0.8h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1H345h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1H314h-3.1h-3.1h-3.1
+			h-3.1h-3.1h-3.1h-3.1h-3.1H286h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1H255h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1H227
+			h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1H196h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1H168h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1
+			h-3.1h-3.1h-3.1H137h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1h-3.1H109h-3.1h-3.1l-3.1,0"/>
+		<path class="st14" d="M50.5,559.2l2.5-1.8l2.4-1.8l2.4-1.8l2.4-1.8l2.3-1.8l2.3-1.8l2.3-1.8l2.2-1.8l2.2-1.8l2.2-1.8l2.2-1.8
+			L78,537l2.1-1.8l2.1-1.8l2.1-1.8l2-1.8l2-1.8l2-1.8l2-1.8l2-1.8l1.9-1.8l1.9-1.8l1.9-1.8l1.9-1.8l1.9-1.8l1.8-1.8l1.8-1.8l1.8-1.8
+			l1.8-1.8l1.8-1.8l1.8-1.8l1.8-1.8l1.7-1.8l1.7-1.8l1.7-1.8l1.7-1.8l1.7-1.8l1.7-1.8l1.7-1.8l1.7-1.8l1.6-1.8l1.6-1.8l1.6-1.8
+			l1.6-1.8l1.6-1.8l1.6-1.8l1.6-1.8l1.6-1.8l1.6-1.8l1.6-1.8l1.6-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8
+			l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8
+			l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.5-1.8l1.6-1.8l1.6-1.8l1.6-1.8l1.6-1.8l1.6-1.8l1.7-1.8l1.7-1.8l1.7-1.8l1.8-1.8
+			l1.8-1.8l1.9-1.8l1.9-1.8l2-1.8l2.1-1.8l2.3-1.8l2.5-1.8l2.9-1.8l3.6-1.8l6.3-1.8"/>
+		<path class="st15" d="M257.5,380.1l4.7,1.8l3.6,1.8l3,1.8l2.6,1.8l2.4,1.8l2.2,1.8l2,1.8l1.9,1.8l1.8,1.8l1.7,1.8l1.6,1.8l1.6,1.8
+			l1.5,1.8l1.5,1.8l1.4,1.8l1.4,1.8l1.3,1.8l1.3,1.8l1.3,1.8l1.3,1.8l1.3,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8
+			l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.1,1.8l1.1,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8
+			l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.2,1.8l1.3,1.8l1.3,1.8l1.3,1.8l1.3,1.8l1.3,1.8l1.3,1.8l1.4,1.8l1.4,1.8l1.4,1.8l1.4,1.8
+			l1.5,1.8l1.5,1.8l1.5,1.8l1.5,1.8l1.6,1.8l1.6,1.8l1.6,1.8l1.7,1.8l1.7,1.8l1.7,1.8l1.8,1.8l1.8,1.8l1.9,1.8l1.9,1.8l2,1.8l2,1.8
+			l2.1,1.8l2.1,1.8l2.2,1.8l2.2,1.8l2.3,1.8l2.4,1.8l2.4,1.8l2.5,1.8l2.6,1.8l2.7,1.8l2.7,1.8l2.8,1.8l2.9,1.8l3,1.8l3.1,1.8
+			l3.2,1.8l3.3,1.8l3.4,1.8l3.5,1.8l3.6,1.8l3.8,1.8l3.9,1.8l4,1.8l4.2,1.8"/>
+	</g>
+	<g>
+		<path class="st0" d="M198,331V229H59v102H198z"/>
+	</g>
+	<g transform="translate(131,51.9512)">
+		<text transform="matrix(1 0 0 1 -25 192)" class="st4 st5">Process 1-2</text>
+	</g>
+	<g>
+		<line class="st10" x1="63" y1="239" x2="103" y2="239"/>
+	</g>
+	<g transform="translate(131,68.3707)">
+		<text transform="matrix(1 0 0 1 -25 192)" class="st4 st5">Process 2-3</text>
+	</g>
+	<g>
+		<line class="st11" x1="63" y1="255.4" x2="103" y2="255.4"/>
+	</g>
+	<g transform="translate(131,84.7902)">
+		<text transform="matrix(1 0 0 1 -25 192)" class="st4 st5">Process 3-4</text>
+	</g>
+	<g>
+		<line class="st12" x1="63" y1="271.8" x2="103" y2="271.8"/>
+	</g>
+	<g transform="translate(131,101.2098)">
+		<text transform="matrix(1 0 0 1 -25 192)" class="st4 st5">Process 4-1</text>
+	</g>
+	<g>
+		<line class="st13" x1="63" y1="288.2" x2="103" y2="288.2"/>
+	</g>
+	<g transform="translate(131,117.6293)">
+		<text transform="matrix(1 0 0 1 -25 192)" class="st4 st5">Saturated Liquid</text>
+	</g>
+	<g>
+		<line class="st14" x1="63" y1="304.6" x2="103" y2="304.6"/>
+	</g>
+	<g transform="translate(131,134.0488)">
+		<text transform="matrix(1 0 0 1 -25 192)" class="st4 st5">Saturated Vapor</text>
+	</g>
+	<g>
+		<line class="st15" x1="63" y1="321" x2="103" y2="321"/>
+		<path class="st16" d="M59,331V229h139v102H59z"/>
+	</g>
+</g>
+</svg>
